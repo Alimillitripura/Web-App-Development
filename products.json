@@ -1,0 +1,20 @@
+[
+  {
+    "crop": "Tomato #124",
+    "matchedProduct": {
+      "title": "Fresh Organic Tomato Box",
+      "price": "19,000 KRW",
+      "image": "https://link-to-image.com/tomato.jpg",
+      "buyLink": "https://your-mockshop.com/product/123"
+    }
+  },
+  {
+    "crop": "Lettuce #75",
+    "matchedProduct": {
+      "title": "Crisp Lettuce Pack",
+      "price": "12,000 KRW",
+      "image": "https://link-to-image.com/lettuce.jpg",
+      "buyLink": "https://your-mockshop.com/product/124"
+    }
+  }
+]
